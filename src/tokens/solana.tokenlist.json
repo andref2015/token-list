@@ -22174,6 +22174,20 @@
   }
 }
 ,
+    
+    {
+  "chainId": 101,
+  "address": "CuHCGXuiBUJ7jF8CWn8ekz5b2k1PqehLu8p4uXVqCqFH",
+  "symbol": "UNYC",
+  "name": "UnemployedCoin",
+  "decimals": 9,
+  "logoURI": "https://thumbs.dreamstime.com/b/unemployed-text-red-brown-ribbon-stamp-badge-215837363.jpg",
+  "tags": [
+  ],
+  "extensions": {
+  }
+}
+    
 {
   "chainId": 101,
   "address": "5xq71UHmPSZ5s68DkXL8wrBVsWCh4zXgcn4wTWkqFdxa",
